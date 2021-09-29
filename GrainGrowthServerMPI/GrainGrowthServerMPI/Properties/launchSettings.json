@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GrainGrowthServer": {
+      "commandName": "Project"
+    },
+    "GrainGrowthServerMPI": {
+      "commandName": "Project"
+    }
+  }
+}

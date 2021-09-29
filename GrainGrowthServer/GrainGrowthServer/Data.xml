@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CG_config>
+  <FilePath>#0000.txt</FilePath>
+  <SizeX>100</SizeX>
+  <SizeY>100</SizeY>
+  <SizeZ>100</SizeZ>
+  <Neighbourhood>Moore</Neighbourhood>
+  <BC>Periodic</BC>
+  <Nucleons>2</Nucleons>
+  <Simulation>CA</Simulation>
+  <NumberOfIterations>2</NumberOfIterations>
+  <KT>1,0</KT>
+  <J>0,1</J>
+</CG_config>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CG_config>
+  <FilePath>#222.txt</FilePath>
+  <SizeX>1000</SizeX>
+  <SizeY>1000</SizeY>
+  <SizeZ>1</SizeZ>
+  <Neighbourhood>VonNeumann</Neighbourhood>
+  <BC>Periodic</BC>
+  <Nucleons>100</Nucleons>
+  <Simulation>CA</Simulation>
+  <NumberOfIterations>15</NumberOfIterations>
+  <KT>1,0</KT>
+  <J>0,1</J>
+</CG_config>
